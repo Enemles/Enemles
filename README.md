@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Enemles
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React/Next.js, and developing custom Wordpress themes
-- 💞️ I’m looking to take as many profit as I can from my apprenticeship !
-- 📫 How to reach me ? +33781575350 or @enemles.ihraf@gmail.com
+- 👀 Creative Developer & Software Architect
+- 💞️ Looking forward to collaborate together ?
+- 📫 How to reach me ? selmene.dev@gmail.com
 
 <!---
 Enemles/Enemles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
